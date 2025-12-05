@@ -67,9 +67,6 @@ IntuitBuildChallenge/
 └── README.md                             # Project documentation and instructions
 ```
 
-
-Compilation output is written to: `out/`
-
 ---
 
 # Assignment 1 - Producer Consumer Pattern
@@ -356,5 +353,6 @@ Assignment 1 presents two implementations of the producer–consumer pattern to 
 Assignment 2 implements a Stream-based analysis pipeline with clear data modeling, structured CSV loading, and well-defined analytical operations.  
 
 Every major component in both assignments is supported by JUnit tests, and all source files include explanatory comments describing design decisions and core logic. The repository also includes dataset justification, setup instructions, and sample program output, ensuring the work is easy to run, review, and evaluate.
+
 
 
